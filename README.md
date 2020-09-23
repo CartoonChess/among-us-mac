@@ -32,3 +32,6 @@ Note as well that the installer will make some assumptions, such as that the gam
 
 ## Attributions of the future
 Can you help make this project better? Please do!
+
+## More Among Us!!
+What about a [terrible Discord bot](https://discord.com/oauth2/authorize?client_id=749491346334679181&permissions=8&scope=bot) that automatically detects room codes and shouts them out in big bold letters?
