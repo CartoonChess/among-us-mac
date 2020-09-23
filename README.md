@@ -7,13 +7,18 @@ Play [Among Us](http://www.innersloth.com/gameAmongUs.php) on your Mac. Download
 3. Download and open the [Among Us Installer](https://github.com/CartoonChess/among-us-mac/raw/transfer/Among%20Us%20Installer.zip).
 4. Follow the installer's instructions to continue.
 
+## Updating
+The installer can be used to update the Mac version when the Windows version is updated. If the Mac version is already installed, open the installer again and provide the updated Windows game files.
+
 ## Installation details
-The installer requires two things to work: the game wrapper or app, called `AmongUsMac`.zip or `Among Us`.app, and the game files, which will typically be a folder called `Among Us`, `AmongUs`, or `among-us-windows`. The installer will look for these files in the following order:
+The installer requires two things to work: the game app or wrapper, called **AmongUsMac**`.zip` or **Among Us**`.app`, and the game files, which will typically be a folder called **Among Us**, **AmongUs**, or **among-us-windows**. The installer will look for these files in the following order:
 1. Drag-and-dropped onto the installer icon
 2. In the same folder as the installer
 3. Steam game files on Boot Camp drive (`/Volumes/BOOTCAMP/Program Files (x86)/Steam/steamapps/common/Among Us/`)
 4. Provided via file section window.
+
 The installer can fail to detect any of the above for various reasons, and each is prone to its own set of errors as well. If you face difficulty, try one of the other methods instead.
+
 Note as well that the installer will make some assumptions, such as that the game files are being updated if `Among Us`.app already exists at `/Applications`.
 
 ## Troubleshooting
