@@ -8,7 +8,7 @@ Play [Among Us](http://www.innersloth.com/gameAmongUs.php) on your Mac. Download
 4. Follow the installer's instructions to continue.
 
 ## Installation details
-The installer requires two things to work: the game wrapper or app, called `AmongUsMac`.zip or `Among Us`.app, and the game files, which will typically be a folder called `Among Us`, `AmongUs`', or `among-us-windows`. The installer will look for these files in the following order:
+The installer requires two things to work: the game wrapper or app, called `AmongUsMac`.zip or `Among Us`.app, and the game files, which will typically be a folder called `Among Us`, `AmongUs`, or `among-us-windows`. The installer will look for these files in the following order:
 1. Drag-and-dropped onto the installer icon
 2. In the same folder as the installer
 3. Steam game files on Boot Camp drive (`/Volumes/BOOTCAMP/Program Files (x86)/Steam/steamapps/common/Among Us/`)
@@ -23,4 +23,4 @@ Note as well that the installer will make some assumptions, such as that the gam
 
 ## Attributions
 * Game by [InnerSloth](http://www.innersloth.com)
-* [Wine](https://www.winehq.org) —> [Wineskin](https://sourceforge.net/p/wineskin/code/ci/master/tree/) -> [Gcenx](https://github.com/Gcenx/WineskinServer)
+* [Wine](https://www.winehq.org) —> [Wineskin](https://sourceforge.net/p/wineskin/code/ci/master/tree/) —> [Gcenx](https://github.com/Gcenx/WineskinServer)
