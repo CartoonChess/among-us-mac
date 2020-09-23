@@ -29,3 +29,6 @@ Note as well that the installer will make some assumptions, such as that the gam
 ## Attributions
 * Game by [InnerSloth](http://www.innersloth.com)
 * [Wine](https://www.winehq.org) —> [Wineskin](https://sourceforge.net/p/wineskin/code/ci/master/tree/) —> [Gcenx](https://github.com/Gcenx/WineskinServer)
+
+## Attributions of the future
+Can you help make this project better? Please do!
