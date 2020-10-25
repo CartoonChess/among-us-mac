@@ -15,7 +15,7 @@ The installer requires two things to work: the game app or wrapper, called **Amo
 1. Drag-and-dropped onto the installer icon
 2. In the same folder as the installer
 3. Steam game files on Boot Camp drive (`/Volumes/BOOTCAMP/Program Files (x86)/Steam/steamapps/common/Among Us/`)
-4. Provided via file section window.
+4. Provided via file selection window.
 
 The installer can fail to detect any of the above for various reasons, and each is prone to its own set of errors as well. If you face difficulty, try one of the other methods instead.
 
