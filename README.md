@@ -34,4 +34,4 @@ Note as well that the installer will make some assumptions, such as that the gam
 Can you help make this project better? Please do!
 
 ## More Among Us!!
-What about a [terrible Discord bot](https://discord.com/oauth2/authorize?client_id=749491346334679181&permissions=8&scope=bot) that automatically detects room codes and shouts them out in big bold letters?
+What about a ~~terrible Among Us bot~~ [Discord verified-bot bot](https://github.com/CartoonChess/are-we-ver-yet) that automatically sends you a message when a really good Among Us bot can be invited to your server?
